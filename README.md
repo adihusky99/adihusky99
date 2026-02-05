@@ -10,10 +10,8 @@
 
 I'm a computational scientist specializing in bioinformatics with a passion for translating complex biological datasets into actionable insights. My work combines deep learning, statistical modeling, and data visualization to advance cancer research and genomic analysis.
 
-- 🔭 Currently working on transfer learning models for blood cancer detection
 - 🌱 Learning advanced ensemble methods and explainable AI techniques
 - 👯 Looking to collaborate on open-source bioinformatics tools and medical AI projects
-- 💬 Ask me about RNA-seq analysis, deep learning for medical diagnostics, or computational phylogenetics
 - 📫 How to reach me: elayavalli.a@northeastern.edu
 
 ---
