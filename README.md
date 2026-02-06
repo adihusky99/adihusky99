@@ -86,6 +86,8 @@ Collection of advanced data science and machine learning projects from DA 5020 a
 - Model validation and performance optimization
 - Professional reporting with RMarkdown
 
+---
+
 ### 🦠 [Viral Proteome Amino Acid Analysis](https://github.com/adihusky99/Decoding_Herpesvirus)
 
 Python-based bioinformatics analysis of the herpesvirus proteome to quantify and compare amino acid composition across viral structural proteins (capsid, envelope, membrane).
@@ -99,6 +101,8 @@ Python-based bioinformatics analysis of the herpesvirus proteome to quantify and
 - Visualization of amino acid distributions using bar plots
 - Identification of enriched/depleted amino acids by viral structure
 - Reproducible workflow for viral proteomics and computational biology analysis
+
+---
 
 ## 🛠️ Technical Skills
 
