@@ -70,7 +70,7 @@ Suite of bioinformatics tools including Markov chain sequence classifiers, HMM-b
 
 ---
 
-### 📊 Data Science Practicum Projects
+### 📊 [Data Science Practicum Projects](https://github.com/adihusky99/Practicum-Project)
 Collection of advanced data science and machine learning projects from DA 5020 and DA 5030 coursework, including diabetes prediction models and comprehensive statistical analyses.
 **Tech Stack:** `R` `RMarkdown` `tidyverse` `caret` `Machine Learning`
 **Key Projects:** 
@@ -81,10 +81,24 @@ Collection of advanced data science and machine learning projects from DA 5020 a
 
 **Highlights:**
 
-End-to-end data science workflows from raw data to deployment-ready models
-Statistical inference and hypothesis testing
-Model validation and performance optimization
-Professional reporting with RMarkdown
+- End-to-end data science workflows from raw data to deployment-ready models
+- Statistical inference and hypothesis testing
+- Model validation and performance optimization
+- Professional reporting with RMarkdown
+
+### 🦠 [Viral Proteome Amino Acid Analysis](https://github.com/adihusky99/Decoding_Herpesvirus)
+
+Python-based bioinformatics analysis of the herpesvirus proteome to quantify and compare amino acid composition across viral structural proteins (capsid, envelope, membrane).
+
+**Tech Stack:** `Python` `NumPy` `Matplotlib` `JSON` `Jupyter` `Notebook`
+
+**Highlights:**
+- Automated parsing of viral genome JSON to extract protein sequences
+- Global amino acid frequency analysis across full viral proteome
+- Comparative analysis of envelope, membrane, and capsid proteins
+- Visualization of amino acid distributions using bar plots
+- Identification of enriched/depleted amino acids by viral structure
+- Reproducible workflow for viral proteomics and computational biology analysis
 
 ## 🛠️ Technical Skills
 
