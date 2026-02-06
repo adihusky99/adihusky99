@@ -104,6 +104,10 @@ Python-based bioinformatics analysis of the herpesvirus proteome to quantify and
 
 ---
 
+## Curently Working On
+
+1) **Mutation Impact Predictor:** Predict whether mutation likely disrupts viral structure. 
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, R, Bash, SQL
