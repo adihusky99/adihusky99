@@ -2,7 +2,7 @@
 
 **Computational Scientist | Bioinformatics Researcher | Machine Learning Enthusiast**
 
-📍 Cambridge, MA | 📧 elayavalli.a@northeastern.edu | 💼 [LinkedIn](https://www.linkedin.com/in/adityaelayavallia368a8158/)
+📍 Cambridge, MA/ Leander, TX | 📧 elayavalli.a@northeastern.edu | 💼 [LinkedIn](https://www.linkedin.com/in/adityaelayavallia368a8158/)
 
 ---
 
