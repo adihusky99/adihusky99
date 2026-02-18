@@ -104,6 +104,22 @@ Python-based bioinformatics analysis of the herpesvirus proteome to quantify and
 
 ---
 
+### 🧬 [Cancer Genomics MAF Analysis Pipeline](https://github.com/adihusky99/Cancer-Genomics)
+
+Complete cancer genomics workflow for reading, summarizing, visualizing, and analyzing somatic mutation data from MAF files, integrating clinical information and identifying key mutation patterns, driver genes, and survival-associated biomarkers.
+
+**Tech Stack:** R maftools Bioconductor ggplot2 Survival Analysis Cancer Genomics
+
+**Highlights:**
+
+-End-to-end MAF file processing and summarization
+-Automated oncoplots, rainfall plots, and mutation burden visualization
+-Detection of co-occurring and mutually exclusive mutations
+-Driver gene identification using positional clustering (Oncodrive)
+-Protein domain and mutation hotspot analysis
+-Kaplan-Meier survival analysis linked to mutation status
+-Cohort comparison for differential mutation profiling
+
 ## Curently Working On
 
 1) **Mutation Impact Predictor:** Predict whether mutation likely disrupts viral structure. 
