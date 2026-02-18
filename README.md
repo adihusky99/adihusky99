@@ -112,13 +112,13 @@ Complete cancer genomics workflow for reading, summarizing, visualizing, and ana
 
 **Highlights:**
 
--End-to-end MAF file processing and summarization
--Automated oncoplots, rainfall plots, and mutation burden visualization
--Detection of co-occurring and mutually exclusive mutations
--Driver gene identification using positional clustering (Oncodrive)
--Protein domain and mutation hotspot analysis
--Kaplan-Meier survival analysis linked to mutation status
--Cohort comparison for differential mutation profiling
+- End-to-end MAF file processing and summarization
+- Automated oncoplots, rainfall plots, and mutation burden visualization
+- Detection of co-occurring and mutually exclusive mutations
+- Driver gene identification using positional clustering (Oncodrive)
+- Protein domain and mutation hotspot analysis
+- Kaplan-Meier survival analysis linked to mutation status
+- Cohort comparison for differential mutation profiling
 
 ---
 
