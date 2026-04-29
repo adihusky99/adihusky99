@@ -18,6 +18,19 @@ I'm a computational scientist specializing in bioinformatics with a passion for 
 
 ## 🚀 Featured Projects
 
+### 🦠 [COVID-19 Bayesian Network & Epidemic Spread Simulator](https://github.com/adihusky99/Bayesian-and-Dijkstra-network-Covid-19-contact-tracing-model)
+Probabilistic inference model using a Bayesian Network DAG to estimate COVID-19 likelihood from symptoms, test results, and exposure history, combined with a Dijkstra-inspired BFS epidemic spread simulation across a 200-node clustered contact graph.
+
+**Tech Stack:** Python matplotlib NumPy Bayesian Inference
+
+**Highlights:**
+
+- Exact inference by enumeration across 5 binary variables (32 combinations)
+- Dijkstra-based BFS epidemic spread tracking minimum infection distance paths
+- Clustered contact graph (200 nodes) mimicking real-world social structures
+- Multi-scenario analysis (false positives, asymptomatic cases, contact tracing)
+- Static multi-panel PNG report with DAG diagram and risk visualizations
+
 ### 🩸 [Blood Cancer Image Detection](https://github.com/adihusky99/Blood-Cancer-Image-detection)
 Deep learning CNN model for automated classification of blood cells across 8 cell types, specifically identifying abnormal cells (immature granulocytes, erythroblasts) that may indicate leukemia or blood disorders.
 
